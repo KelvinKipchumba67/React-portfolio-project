@@ -46,3 +46,21 @@ react-portfolio/
 │   └── index.js     # Entry point
 └── package.json
 
+🧩 Future Improvements
+
+Dark/Light theme toggle
+
+Backend integration for contact form
+
+📌 Reflection
+
+This portfolio project was my first deep dive into React. It helped me:
+
+Understand modern front-end workflows
+
+Gain confidence in building React apps from scratch
+
+Prepare a foundation for larger projects (like full-stack apps)
+
+
+
